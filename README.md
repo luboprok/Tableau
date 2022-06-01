@@ -1,2 +1,2 @@
 # Tableau
-Application in Tableau
+Applications in Tableau Desktop
